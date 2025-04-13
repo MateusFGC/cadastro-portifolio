@@ -1,4 +1,4 @@
-import Profile from "./profile";
+import Profile from "./components/profile";
 import Marcia from './assets/Gemini_Marcia.jpg'
 import Carlos from './assets/Gemini_Carlos.jpg'
 import Bruna from './assets/Gemini_Bruna.jpg'
