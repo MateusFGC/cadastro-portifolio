@@ -1,5 +1,5 @@
 export default function ButtonProfile(props){
     return (
-        <section>{props.children}</section>
+        <button>{props.children}</button>
     )
 }
